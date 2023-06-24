@@ -20,7 +20,7 @@ App Brainstorming
 
 Favorite apps and features
     
-    1. Spotify    
+1. Spotify    
     - Personalized music recommendations: Spotify suggests music based on users' listening history, preferences, and curated playlists, helping users discover new music that aligns with their tastes.
     - Collaborative playlists: Spotify allows users to create collaborative playlists that multiple users can contribute to, making it easy to collaborate with friends and create shared music collections.
     - Cross-device synchronization and offline listening: Users can access their music library across multiple devices and download songs and playlists for offline listening.

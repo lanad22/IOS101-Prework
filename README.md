@@ -18,7 +18,7 @@
 
 <h2 align="center">App Brainstorming</h2>
 
-<h3>Favorite apps and features</h3>
+<h3 align="center">Favorite apps and features</h3>
     
 1. Spotify    
     - Personalized music recommendations: Spotify suggests music based on users' listening history, preferences, and curated playlists, helping users discover new music that aligns with their tastes.
@@ -39,12 +39,14 @@
     - Financial goal setting: allows users to set financial goals and track their progress over time.
     - Budgeting and expense tracking: users can set up personalized budgets based on income and expenses, as well as bill payment reminder for users.
 
-<h3>App Idea</h3>
+<h3 align="center">App Idea</h3>
 
 I would like to build an app called "TravelPal", a comprehensive travel companion that assists users in planning and organizing their trips efficiently. Some key features of the app includes: 
+
 - provides personalized trip itineraries based on users' interests, budget, and length of stay
 - suggestions for popular attractions, local recommendations, and hidden gems at their destination
 - integrates real-time flight and hotel booking capabilities, allowing users to conveniently make reservations within the app.
 - interactive map that highlights points of interest, public transportation routes, and customizable pins for users to mark their favorite places.
 - provide weather updates, travel advisories, and currency conversion tools to ensure a smooth and informed travel experience.
+
 I would also like to expand the app into social networking platform specifically designed for travelers to connect with like-minded individuals during their journeys. The app would allow users to create profiles with their travel preferences, interests, and itineraries. Users could search for fellow travelers based on common destinations, activities, or travel dates. The app would also provide a chat feature for users to communicate and plan meetups, share travel tips, and even explore new destinations together.

@@ -16,9 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-<h2>App Brainstorming</h2>
+<h2 align="center">App Brainstorming</h2>
 
-<h4>Favorite apps and features</h4>
+<h3>Favorite apps and features</h3>
     
 1. Spotify    
     - Personalized music recommendations: Spotify suggests music based on users' listening history, preferences, and curated playlists, helping users discover new music that aligns with their tastes.
@@ -37,4 +37,14 @@
 4. Mint
     - Account aggregation: let users link all their financial accounts in one place, including bank accounts, credit cards, loans, investments, and more.
     - Financial goal setting: allows users to set financial goals and track their progress over time.
-    - Budgeting and expense tracking: users can set up personalized budgets based on income and expenses, as well as bill payment reminder for users. 
+    - Budgeting and expense tracking: users can set up personalized budgets based on income and expenses, as well as bill payment reminder for users.
+
+<h3>App Idea</h3>
+
+I would like to build an app called "TravelPal", a comprehensive travel companion that assists users in planning and organizing their trips efficiently. Some key features of the app includes: 
+- provides personalized trip itineraries based on users' interests, budget, and length of stay
+- suggestions for popular attractions, local recommendations, and hidden gems at their destination
+- integrates real-time flight and hotel booking capabilities, allowing users to conveniently make reservations within the app.
+- interactive map that highlights points of interest, public transportation routes, and customizable pins for users to mark their favorite places.
+- provide weather updates, travel advisories, and currency conversion tools to ensure a smooth and informed travel experience.
+I would also like to expand the app into social networking platform specifically designed for travelers to connect with like-minded individuals during their journeys. The app would allow users to create profiles with their travel preferences, interests, and itineraries. Users could search for fellow travelers based on common destinations, activities, or travel dates. The app would also provide a chat feature for users to communicate and plan meetups, share travel tips, and even explore new destinations together.

@@ -19,6 +19,7 @@
 #
 <h2 align="center">App Brainstorming</h2>
 
+
 <h3 align="center">Favorite apps and features</h3>
     
 1. Spotify    

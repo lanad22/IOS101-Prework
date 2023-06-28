@@ -1,5 +1,3 @@
-# IOS101-Prework
-
 <h1 align="center">Hi 👋, I'm Lana Do</h1>
 <h3 align="center">A passionate web and app developer from California</h3>
 
@@ -16,10 +14,33 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-#
-<h2 align="center">App Brainstorming</h2>
+
+# Prework - TravelPal
+
+Submitted by: Lana Do
+
+TravelPal is an app that allows user to organize and plan their trip efficiently. It is also served as social network platform that let like-minded travelers connect with one another and share their experiences.
+
+Time spent: 3 hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+ 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='![]http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
+GIF created with Kap 
+
+
+## App Brainstorming (Step 4)
 <h3 align="center">Favorite apps and features</h3>
     
 1. Spotify    
@@ -52,3 +73,26 @@ I would like to build an app called "TravelPal", a comprehensive travel companio
 - provide weather updates, travel advisories, and currency conversion tools to ensure a smooth and informed travel experience.
 
 I would also like to expand the app into social networking platform specifically designed for travelers to connect with like-minded individuals during their journeys. The app would allow users to create profiles with their travel preferences, interests, and itineraries. Users could search for fellow travelers based on common destinations, activities, or travel dates. The app would also provide a chat feature for users to communicate and plan meetups, share travel tips, and even explore new destinations together.
+
+
+## Notes
+
+Describe any challenges encountered while building the app.
+
+## License
+
+    Copyright [2023] [Lana Do]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.# IOS101-Prework
+
+

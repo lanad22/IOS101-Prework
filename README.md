@@ -34,14 +34,14 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![]http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![]https://imgur.com/a/l0WiVOD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Kap 
 
 
 ## App Brainstorming (Step 4)
-<h3 align="center">Favorite apps and features</h3>
+<h4>Favorite apps and features</h4>
     
 1. Spotify    
     - Personalized music recommendations: Spotify suggests music based on users' listening history, preferences, and curated playlists, helping users discover new music that aligns with their tastes.
@@ -62,7 +62,7 @@ GIF created with Kap
     - Financial goal setting: allows users to set financial goals and track their progress over time.
     - Budgeting and expense tracking: users can set up personalized budgets based on income and expenses, as well as bill payment reminder for users.
 
-<h3 align="center">App Idea</h3>
+<h4>App Idea</h4>
 
 I would like to build an app called "TravelPal", a comprehensive travel companion that assists users in planning and organizing their trips efficiently. Some key features of the app includes: 
 

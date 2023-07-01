@@ -29,6 +29,14 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+
+## Additional Features
+
+The following **required** functionality is completed:
+
+- [x] There's an additional random image in the center with the labels and button. Each time user opens the app there will be a different image. 
+- [x] Tapping the button changes the font and color of the name label to bold and pink color
+- [x] Tapping the button also changes the image on screen to another random image
  
 ## Video Walkthrough
 

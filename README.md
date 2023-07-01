@@ -21,7 +21,7 @@ Submitted by: Lana Do
 
 TravelPal is an app that allows user to organize and plan their trip efficiently. It is also served as social network platform that let like-minded travelers connect with one another and share their experiences.
 
-Time spent: 3 hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 

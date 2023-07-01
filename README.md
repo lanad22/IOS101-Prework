@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lana Do</h1>
 <h3 align="center">A passionate web and app developer from California</h3>
 
-- 🔭 I’m currently working on [my first IOS app](https://imgur.com/a/l0WiVOD.gif)
+- 🔭 I’m currently working on [my first IOS app](https://imgur.com/a/3t26rLY.gif)
 
 - 🌱 I’m currently learning **IOS development**
 
@@ -34,7 +34,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='IOS101-Prework.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='IOS101-Prework(3).gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 
 GIF created with Kap 

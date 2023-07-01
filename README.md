@@ -49,28 +49,28 @@ GIF created with Kap
 
 
 ## App Brainstorming (Step 4)
-<h4>Favorite apps and features</h4>
+<h3>1. Favorite apps and features</h3>
     
-1. Spotify    
+- Spotify    
     - Personalized music recommendations: Spotify suggests music based on users' listening history, preferences, and curated playlists, helping users discover new music that aligns with their tastes.
     - Collaborative playlists: Spotify allows users to create collaborative playlists that multiple users can contribute to, making it easy to collaborate with friends and create shared music collections.
     - Cross-device synchronization and offline listening: Users can access their music library across multiple devices and download songs and playlists for offline listening.
     
-2. Pinterest
+- Pinterest
     - Visual discovery and related Pins: allow users to explore and find new ideas and inspiration based on images they discover. 
     - Idea Pins: immersive and interactive multi-page pins that allow users to share step-by-step tutorials, guides, recipes, DIY projects.
 
-3. Duolingo
+- Duolingo
     - Fun games incorporated with the learning experiences: learners can earn points, level up, or compete with friends.
     - Personalized learning path: Based on users' progress, strengths, and weaknesses, the app adjusts the content and difficulty level to provide a customized learning experience. This ensures that learners receive targeted practice in areas where they need the most improvement.
     - Speech recognition and pronunciation practice: Speech recognition program to assess users' pronunciation, allowing learners to practice speaking in the target language and receive real-time feedback on their pronunciation.
 
-4. Mint
+- Mint
     - Account aggregation: let users link all their financial accounts in one place, including bank accounts, credit cards, loans, investments, and more.
     - Financial goal setting: allows users to set financial goals and track their progress over time.
     - Budgeting and expense tracking: users can set up personalized budgets based on income and expenses, as well as bill payment reminder for users.
 
-<h4>App Idea</h4>
+<h3>2. App Idea</h3>
 
 I would like to build an app called "TravelPal", a comprehensive travel companion that assists users in planning and organizing their trips efficiently. Some key features of the app includes: 
 
